@@ -39,7 +39,7 @@ Este repositório contém os principais projetos desenvolvidos por mim ao longo 
 
 📧 cauamarques@email.com (exemplo)  
 📍 São Paulo – SP  
-🌐 [LinkedIn (opcional)](https://www.linkedin.com)
+🌐 [LinkedIn (www.linkedin.com/in/cauã-marques-rocha-9a0360365)]
 
 ---
 
