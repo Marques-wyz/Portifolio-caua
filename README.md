@@ -37,9 +37,9 @@ Este repositório contém os principais projetos desenvolvidos por mim ao longo 
 
 ## 📬 Contato
 
-📧 cauamarques@email.com (exemplo)  
+📧 cauamarques@email.com 
 📍 São Paulo – SP  
-🌐 [LinkedIn (www.linkedin.com/in/cauã-marques-rocha-9a0360365)]
+🌐 LinkedIn (www.linkedin.com/in/cauã-marques-rocha-9a0360365)
 
 ---
 
